@@ -1,4 +1,4 @@
-## Olá, seja bem vindo!
+## Olá! Eu sou Victoria :)
 
 ![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmendesx&show_icons=true&theme=tokyonight)
 
