@@ -1,12 +1,9 @@
 ## Olá, seja bem vindo!
 
-### Outros contatos:
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victoriamendesx)
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victoriamendes3002@gmail.com)
+![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmendesx&show_icons=true&theme=tokyonight)
+
 ##
 
-![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=vicmendesx&show_icons=true&theme=tokyonight)
-##
 ### Tecnologias que utilizo:
 
 <div style="display: inline_block"> <br/>
@@ -16,4 +13,11 @@
     <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   
 </div>
+
+##
+
+### Outros contatos:
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victoriamendesx)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victoriamendes3002@gmail.com)
 
